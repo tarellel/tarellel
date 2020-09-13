@@ -9,5 +9,3 @@ My name is Brandon Hicks (aka Tarellel)
 * :gift: Someone who loves using Ruby/Rails, that way I can enjoy my code as much as the project
 
 [![tarellel's github stats](https://github-readme-stats.vercel.app/api?username=tarellel&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarellel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
